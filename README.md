@@ -1,25 +1,25 @@
 # Digital-CMOS-Design-of-different-logic-gates
 This is an ongoing project comprised of digital CMOS designs. This includes different schematics, layouts, etc of logic gates like an inverter, AND gate, NAND gate, NOR gate, OR, 3input AOI, 3 input OAI, etc. 
-https://user-images.githubusercontent.com/96807903/153063837-9d4f608a-8d5b-48dc-b3e6-4d66015919f3.png
-https://user-images.githubusercontent.com/96807903/153063869-77b360ad-8d1e-42f7-95a7-610e8561d994.png
-https://user-images.githubusercontent.com/96807903/153063888-c4fa6008-ed2f-43d8-8668-74c83f1f9a80.png
-https://user-images.githubusercontent.com/96807903/153063924-46c4cb53-52b0-472d-91e9-d9fe9a51d3f1.png
-https://user-images.githubusercontent.com/96807903/153063929-96f04c76-1e9c-4266-b81d-5be88655b9b9.png
-https://user-images.githubusercontent.com/96807903/153063932-ed9b1c80-78ad-4692-b601-1463fe1f099e.png
-https://user-images.githubusercontent.com/96807903/153063933-8ca04beb-ecf9-4afd-9095-9f66035502a6.png
-https://user-images.githubusercontent.com/96807903/153063934-a33d1b0b-dde8-45ce-a0c6-8388b3985ef5.png
-https://user-images.githubusercontent.com/96807903/153063935-96bbf6da-7391-482a-a2ed-df92ff00d27c.png
-https://user-images.githubusercontent.com/96807903/153063938-08bfda69-582b-43ed-8585-9ce1155854b5.png
-https://user-images.githubusercontent.com/96807903/153063941-fe1beaaf-e206-481a-bbef-4ec200388e86.png
-https://user-images.githubusercontent.com/96807903/153063943-7f7852d1-7dbe-4453-bd7b-b8ef7d4a987e.png
-https://user-images.githubusercontent.com/96807903/153063946-1c6546a9-2873-4861-972e-1b6752d6b48e.png
-https://user-images.githubusercontent.com/96807903/153063948-b9a9465d-6ae2-4358-b670-3ed44f6d41ca.png
-https://user-images.githubusercontent.com/96807903/153063951-850c8161-74ac-48cc-8b0f-46b55b86af86.png
-https://user-images.githubusercontent.com/96807903/153063953-3df86f70-9011-4112-86ab-97174008e833.png
-https://user-images.githubusercontent.com/96807903/153063957-dea92a4a-14ca-445b-9c38-10b9f9c035d9.png
-https://user-images.githubusercontent.com/96807903/153063987-31ee1ade-5a25-4291-b0b5-6857501b933a.png
-https://user-images.githubusercontent.com/96807903/153063990-bdbcba9e-1999-4fa7-9d37-0bff7823ab84.png
-https://user-images.githubusercontent.com/96807903/153063991-2febed09-d3cf-40bb-90c3-bed1b0b74ed2.png
-https://user-images.githubusercontent.com/96807903/153063993-9edaf0f6-54a0-4801-9f19-09ef4cd80f82.png
-https://user-images.githubusercontent.com/96807903/153063995-8f941776-e113-4d62-9c27-2db0c23b603e.png
-https://user-images.githubusercontent.com/96807903/153063997-9bd27bdf-5724-4c30-b203-27359a6051ad.png
+![Screenshot from 2021-12-07 16-54-01](https://user-images.githubusercontent.com/96807903/153064595-997552c4-edea-4634-be22-8d5ffa8b620d.png)
+![Screenshot from 2021-12-07 16-53-58](https://user-images.githubusercontent.com/96807903/153064600-71ed7ed3-d605-4a23-a0e0-ae790ce51c04.png)
+![Screenshot from 2021-12-07 16-53-46](https://user-images.githubusercontent.com/96807903/153064605-0227bcc4-751c-4c80-87b8-805afb72142e.png)
+![Screenshot from 2021-12-07 16-53-25](https://user-images.githubusercontent.com/96807903/153064607-f6f8e2da-d83d-4a4b-b997-880e67db727c.png)
+![Screenshot from 2021-12-07 16-53-21](https://user-images.githubusercontent.com/96807903/153064608-92bb0980-c427-4f41-bed2-c5389fc67bdc.png)
+![Screenshot from 2021-12-07 16-53-11](https://user-images.githubusercontent.com/96807903/153064612-32799e8b-0d16-496e-b340-67fda0209d81.png)
+![Screenshot from 2021-12-07 16-52-58](https://user-images.githubusercontent.com/96807903/153064613-2d851783-1fb8-408e-a5dc-412ba7b08c20.png)
+![Screenshot from 2021-12-07 16-52-54](https://user-images.githubusercontent.com/96807903/153064615-63cdef55-0529-4872-818d-2ca77296609c.png)
+![Screenshot from 2021-12-07 16-52-50](https://user-images.githubusercontent.com/96807903/153064617-627e06b4-f5fa-41c1-a712-7ab8848c1c53.png)
+![Screenshot from 2021-12-07 16-52-37](https://user-images.githubusercontent.com/96807903/153064620-9f118a6c-cd85-477a-ade9-295c60777b23.png)
+![Screenshot from 2021-12-07 16-52-30](https://user-images.githubusercontent.com/96807903/153064623-d24ff30c-8ce1-4beb-b6b7-156e97e2283f.png)
+![Screenshot from 2021-12-07 16-52-26](https://user-images.githubusercontent.com/96807903/153064625-256cb7c1-911e-414b-b2f4-0508613f2a41.png)
+![Screenshot from 2021-12-07 16-52-21](https://user-images.githubusercontent.com/96807903/153064627-d6d2e023-121f-4cc8-bc1a-9caff2cafc32.png)
+![Screenshot from 2021-12-07 16-52-15](https://user-images.githubusercontent.com/96807903/153064630-f4e5f4e8-8ecb-47c2-bcd1-5dbe799301b2.png)
+![Screenshot from 2021-12-07 16-52-05](https://user-images.githubusercontent.com/96807903/153064631-4427de6d-fb2a-463b-979b-ef4e7279b874.png)
+![Screenshot from 2021-12-07 16-51-39](https://user-images.githubusercontent.com/96807903/153064634-010357e4-815e-4a2e-b5ab-21968bf30880.png)
+![Screenshot from 2021-10-25 17-33-48](https://user-images.githubusercontent.com/96807903/153064636-ed37ec8a-61b8-41c7-b85f-50eb36e1e869.png)
+![Screenshot from 2021-10-25 17-31-08](https://user-images.githubusercontent.com/96807903/153064637-abb1b060-0a96-4a14-9530-9614ec3f21fb.png)
+![Screenshot from 2021-10-25 17-30-39](https://user-images.githubusercontent.com/96807903/153064638-6659b0ba-741b-4bef-9530-eb7f928f912d.png)
+![Screenshot from 2021-10-25 17-29-17](https://user-images.githubusercontent.com/96807903/153064639-33313a27-dd5d-4790-bdd9-c7d82579c167.png)
+![Screenshot from 2021-10-25 17-29-03](https://user-images.githubusercontent.com/96807903/153064641-97aebf43-1251-45e9-aefc-493436d4dc7a.png)
+![Screenshot from 2021-10-25 17-28-52](https://user-images.githubusercontent.com/96807903/153064642-ae2ee334-fff2-4ba0-8660-8c64113e6e3a.png)
+![Screenshot from 2021-10-25 17-26-14](https://user-images.githubusercontent.com/96807903/153064644-36d07adb-dbd6-48eb-b9a0-ffe06466ba28.png)
