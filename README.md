@@ -1,5 +1,5 @@
 # Digital-CMOS-Design-of-different-logic-gates
-This is an ongoing project comprised of digital CMOS designs. This includes different schematics, layouts, etc of logic gates like an inverter, AND gate, NAND gate, NOR gate, OR, 3input AOI, 3 input OAI, etc. 
+This is an ongoing project comprised of digital CMOS designs using Cadence Virtuoso. This includes different schematics, layouts, etc of logic gates like an inverter, AND gate, NAND gate, NOR gate, OR, 3input AOI, 3 input OAI, etc. 
 ![Screenshot from 2021-12-07 16-54-01](https://user-images.githubusercontent.com/96807903/153064595-997552c4-edea-4634-be22-8d5ffa8b620d.png)
 ![Screenshot from 2021-12-07 16-53-58](https://user-images.githubusercontent.com/96807903/153064600-71ed7ed3-d605-4a23-a0e0-ae790ce51c04.png)
 ![Screenshot from 2021-12-07 16-53-46](https://user-images.githubusercontent.com/96807903/153064605-0227bcc4-751c-4c80-87b8-805afb72142e.png)
